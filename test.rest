@@ -1,0 +1,10 @@
+POST http://localhost:8383/api/data
+Content-Type: application/json
+
+{
+  "name":"Yusuf",
+  "name":"Dauda"
+}
+
+###
+DELETE http://localhost:8383/api/data
